@@ -1,0 +1,6 @@
+{
+  "name": "Studio Website",
+  "description": "A contemporary design and architecture studio website showcasing curated spatial and digital projects, design philosophy, and an interactive inquiry builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
